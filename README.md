@@ -15,3 +15,7 @@ Este é um projeto interativo inspirado no multiverso do Spider-Man. Ele usa ani
 - **CSS3**: Estilos, animações e transições (incluindo transformações 3D).
 - **JavaScript**: Interatividade, controle de hover e navegação do carrossel.
 - **Fancybox**: Biblioteca para abrir imagens e vídeos em lightbox.
+
+# Link para o Projeto
+
+[**Clique aqui**](https://spider-man-multiverse-puce.vercel.app)
